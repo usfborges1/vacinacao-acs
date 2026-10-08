@@ -14,3 +14,15 @@ Versão atual: **1.1**
 4. Toque em **Instalar**. Se o Play Protect avisar, toque em **Mais detalhes → Instalar mesmo assim**.
 
 Para atualizar, baixe e instale de novo pelo mesmo link: os registros do tablet são mantidos.
+
+---
+
+# Prontuário Familiar · USF Borges 1
+
+App do tablet dos Agentes Comunitários de Saúde para o prontuário das famílias.
+
+## [⬇ Baixar o app (ProntuarioFamiliar.apk)](https://github.com/usfborges1/vacinacao-acs/raw/main/ProntuarioFamiliar.apk)
+
+Versão atual: **1.2**
+
+A instalação é igual à do app de vacinação (passos acima). Para atualizar, baixe e instale de novo pelo mesmo link: os registros do tablet são mantidos.
