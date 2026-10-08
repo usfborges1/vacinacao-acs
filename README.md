@@ -23,6 +23,6 @@ App do tablet dos Agentes Comunitários de Saúde para o prontuário das famíli
 
 ## [⬇ Baixar o app (ProntuarioFamiliar.apk)](https://github.com/usfborges1/vacinacao-acs/raw/main/ProntuarioFamiliar.apk)
 
-Versão atual: **1.4**
+Versão atual: **1.5**
 
 A instalação é igual à do app de vacinação (passos acima). Para atualizar, baixe e instale de novo pelo mesmo link: os registros do tablet são mantidos.
