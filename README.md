@@ -4,7 +4,7 @@ App do tablet dos Agentes Comunitários de Saúde para registrar vacinas.
 
 ## [⬇ Baixar o app (VacinacaoACS.apk)](https://github.com/usfborges1/vacinacao-acs/raw/main/VacinacaoACS.apk)
 
-Versão atual: **1.1**
+Versão atual: **1.2**
 
 ### Como instalar no tablet
 
